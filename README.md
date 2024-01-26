@@ -5,18 +5,18 @@ This hackathon, an event between the Data Science and Data Visualization subject
 
 **💡 Objective:**
 
-To develop an **inclusivity index for movies** that evaluates diversity representation concerning race, gender, and sexual orientation. We'll utilize **IMDB data** and **Cornell's Movie Dialog Corpus**, aiming to provide insights into the inclusivity of cinema and how it reflects society.
+To develop an **inclusivity index for movies** that evaluates diversity representation concerning race, gender, sexual orientation ... We'll start off with **IMDB data** and **Cornell's Movie Dialog Corpus**, aiming to provide insights into the inclusivity of cinema and how it reflects society.
 
 **🔍 Tasks include:**
 
-1. **Defining a New Inclusivity Test (Data Science Task)**
-2. **Interactive Explanatory Notebook of Index Results and Weights (Data Visualization Task)**
-3. **Recodifying Characters' Metadata (Data Science Task)**
-4. **Interactive Visualization of Metadata (Data Visualization Task)**
-5. **Analyzing the Marketability of Inclusive Cinema (Data Science Task)**
-6. **Visual Analysis of Box Office Revenue and Inclusivity (Data Visualization Task)**
-7. **Applying the Model to Academy Award Best Picture Nominees (Data Science Task)**
-8. **Visual Analysis of Main Takeaways (Data Visualization Task)**
+* Defining a New Inclusivity Test
+* Recodifying Characters' Metadata
+* Analyzing the Marketability of Inclusive Cinema
+* Applying the Model to Academy Award Best Picture Nominees
+* Interactive Explanatory Notebook of Index Results and Weights
+* Interactive Visualization of Metadata
+* Visual Analysis of Box Office Revenue and Inclusivity
+* Visual Analysis of Main Takeaways
 
 **🧑‍🎓 What you will learn:**
 
