@@ -47,23 +47,24 @@ Our primary datasets are:
 **Detailed data insights and instructions** can be found here: [Data Details](https://www.cornellmoviedialogs.com/details)
 
 ## Some helpful tools and resources
-- [IMDB Datasets](https://www.imdb.com/interfaces/)
-- [Cornell Movie Dialog Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
-- [ObservableHQ for Interactive Notebooks](https://observablehq.com/)
-- [Python for Data Science](https://www.python.org/)
-- [QGIS for Geospatial Visualization](https://qgis.org/en/site/)
+TK TK https://projects.fivethirtyeight.com/next-bechdel/
+TK TK https://pudding.cool/2017/03/film-dialogue/? 
+TK TK Some additional datasets or resources to help with the recodification
+TK TK Some other readings or projects on the subject
 
 # Teams and Objectives
 
-## 🐨 Koalas - Inclusivity Index Development
+TK TK We should assign based on skills here. So Koalas 🐨, Badgers 🦡, Pandas 🐼, Rhinos 🦏 depend on the task we assign them
 
-|**Team name:** Koalas 🐨|
+## Inclusivity Index Development
+
+|**Team name:** |
 |:------|
 |**Members:** To be assigned|
 
 **Question:** How can we create a comprehensive inclusivity index for movies?
 
-**Goal:** Develop a robust inclusivity test that evaluates movies based on diversity representation.
+**Goal:** Develop a robust index/test that evaluates movies based on their inclusivity.
 
 **Deliverables:**
 
@@ -71,9 +72,9 @@ Our primary datasets are:
 - Interactive notebook/dashboard showcasing the index results.
 - Guidelines on interpreting the index for filmmakers and studios.
 
-## 🦡 Badgers - Metadata Enhancement
+## Metadata Enhancement
 
-|**Team name:** Badgers 🦡|
+|**Team name:** |
 |:------|
 |**Members:** To be assigned|
 
@@ -87,9 +88,9 @@ Our primary datasets are:
 - An interactive before-and-after comparison visualization of the metadata.
 - A report on the implications of the enhanced metadata for character representation.
 
-## 🐼 Pandas - Analyzing Inclusivity and Marketability
+## Analyzing Inclusivity and Marketability
 
-|**Team name:** Pandas 🐼|
+|**Team name:** |
 |:------|
 |**Members:** To be assigned|
 
@@ -103,9 +104,9 @@ Our primary datasets are:
 - Visualizations linking inclusivity scores with market data.
 - Best practices and recommendations guide for studios to enhance inclusivity for better market performance.
 
-## 🦏 Rhinos - Award-Nominated Films Inclusivity Analysis
+## Award-Nominated Films Inclusivity Analysis
 
-|**Team name:** Rhinos 🦏|
+|**Team name:** |
 |:------|
 |**Members:** To be assigned|
 
@@ -121,6 +122,62 @@ Our primary datasets are:
 
 ---
 
-*Include the Day-of Schedule, Collaboration Recommendations, Awards, and Evaluation Criteria sections, adapted to the new theme as necessary.*
+## Day-of schedule
 
----
+The Hackathon takes place in the P-IV building, EPS UdG on February 3, 2024.
+
+We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
+
+* 👋 **09:30** Welcome, reminder of logistics like working rooms, lunch, drinks, communication channels ...
+* 🙋‍♀️ **09:45** Standup meeting. Objectives, processes, what you want to achieve in the hackathon and any questions.
+* 👩‍💻 **10:00** Start of work day!
+* 🙋‍♀️ **13:45** Short standup
+* 🍱 **14:00** Lunch
+* 👩‍💻 **15:00** Back to work
+* 🧑‍🏫 **19:00** Wrap-up presentation < 6 slides 😜: About 5-7 minutes per team, in English.
+  * What was achieved?
+  * What was helpful?
+  * What’s left to do?
+* 🏆 **19:30** Awards
+* 🥳 **20:00** End!!!
+
+*We'll come to you, moving from group to group, and we'll be available for questions and solving blocks.*
+
+## Collaboration recommendations
+
+* Use folders and file names that are human-readable and let you identify the content, preferably use lower case separated by dashes. For example: `movie-characters-gender-race-orientation.json`
+* Follow the Branch Per Feature model: one feature, one branch.
+* Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `owls--data-cleaning` branch.
+* Use a consistent pattern for commit messages, a nice one is `type of commit: description of the commit in imperative mood` as in `refactor: use map instead of for loop`.
+
+## The awards
+
+As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an guest judge and the presentation must be in English.
+
+[**Vote here for the best team**]()
+* You must vote 3, 2, 1; you can't vote all 3s, or vote all 2s or vote one 3 for yourselves and the rest 1s ...
+* Pandas, to be fair, one of you mustn't vote.
+
+🏆 Jury fav: A **€500 gift card** for the team (sponsored by the Càtedra Informació i Computació via Eurecat)
+
+🏆 Popular vote: A copy of **Extra Bold**: A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers by by Ellen Lupton, Jennifer Tobias, Josh Halstead, Leslie Xia, Kaleena Sales, Farah Kafei, and Valentina Vergara, for each team member (sponsored by ViT)
+
+## Our evaluation criteria
+
+### For the **Project Management** subject:
+
+TK TK 
+
+Self and peer evaluation forms:
+TK TK 
+
+### For the **Information Visualization** subject:
+
+* All attending students get 0.25 for actively participating.
+* All students in the winning groups get 0.5 (if the popular vote coincides with the jury favorite they'll get an extra 0.25)
+* We will take into account:
+  * How clearly the visualization displays the results,
+  * the strategies used to highlight patterns,
+  * the integration of the visuals with the documentation or the text in the notebook.
+
+Remember that the hackathon will account for [**10% of the final mark for the subject**](https://observablehq.com/d/7d86ca84216262ac?collection=@udg-master-data-science/information-visualization#cell-212)—i.e. one full point.
