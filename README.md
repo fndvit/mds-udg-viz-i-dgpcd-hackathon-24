@@ -42,9 +42,7 @@ Our primary datasets are:
 - **IMDB Data Capture:** Contains comprehensive movie data, including titles, genres, release years, ratings, and more.
 - **Cornell's Movie Dialog Corpus:** A rich dataset featuring 220,579 conversational exchanges from 617 movies, inclusive of character metadata like gender and credit positions.
 
-![Data Visualization](data-visualization.png)
-
-**Detailed data insights and instructions** can be found here: [Data Details](https://www.cornellmoviedialogs.com/details)
+**Datasets, codebook and details** can be found here: [data](./data/) [README](./data/README.md)
 
 ## Some helpful tools and resources
 TK TK https://projects.fivethirtyeight.com/next-bechdel/
