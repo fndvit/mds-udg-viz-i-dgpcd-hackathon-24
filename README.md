@@ -1,6 +1,8 @@
 ![Sponsored by the Escola Politècnica Superior EPS - UdG, ViT Foundation, the Càtedra Lluís Santaló d'Aplicacions de la Matemàtica, and the Càtedra d'Informació i Computació (Eurecat)](logos.png)
 
 # EPS - Màster in Data Science UdG | Hackathon: Inclusivity in Cinema
+![License](https://img.shields.io/github/license/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/fndvit/mds-udg-viz-i-dgcp-hackathon?style=for-the-badge)
+
 This hackathon, an event between the Data Science and Data Visualization subjects, is supported by the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo), and the [Càtedra d'Informació i Computació (Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
 
 **💡 Objective:**
