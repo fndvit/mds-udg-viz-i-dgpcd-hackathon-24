@@ -11,14 +11,14 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 
 **🔍 Tasks include:**
 
-* Defining a New Inclusivity Test
-* Recodifying Characters' Metadata
-* Analyzing the Marketability of Inclusive Cinema
-* Applying the Model to Academy Award Best Picture Nominees
-* Interactive Explanatory Notebook of Index Results and Weights
-* Interactive Visualization of Metadata
-* Visual Analysis of Box Office Revenue and Inclusivity
-* Visual Analysis of Main Takeaways
+* Defining a new inclusivity index
+* Recodifying characters' metadata to include race, sexual orientation ...
+* Analyzing the marketability of inclusive cinema
+* Applying the model to Academy Award best picture nominees
+* Interactive explanatory notebook of the index results and its components
+* Interactive visualization of the characters' metadata
+* Visual analysis of box office revenue and inclusivity
+* Visual analysis of the latest Academy Award nominees
 
 **🧑‍🎓 What you will learn:**
 
@@ -29,10 +29,12 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 
 **📅 Pre-hackathon preparations:**
 
-- Familiarize with IMDB data and Cornell's Movie Dialog Corpus.
-- Team meetings to discuss roles and strategy.
-- Establish communication and project management tools.
-- Prepare your computing environment for data analysis and visualization.
+- Familiarize with IMDB data and Cornell's Movie Dialog Corpus —including understanding each variables and doing any data cleanup required.
+- Research inclusivity in cinema and review the [helpful tools and resources](#some-helpful-tools-and-resources). 
+- Plan your particular tasks and objectives.
+- Discuss in teams your roles and strategy.
+- Set up communication and project management tools.
+- Set up your computing environment for data analysis and visualization.
 
 > **⚠ IMPORTANT NOTE:**  
 > Collaboration is key. Ensure to coordinate with other teams as each group’s output is interconnected.
@@ -47,10 +49,13 @@ Our primary datasets are:
 **Datasets, codebook and details** can be found here: [data](./data/) [README](./data/README.md)
 
 ## Some helpful tools and resources
-TK TK https://projects.fivethirtyeight.com/next-bechdel/
-TK TK https://pudding.cool/2017/03/film-dialogue/? 
-TK TK Some additional datasets or resources to help with the recodification
-TK TK Some other readings or projects on the subject
+![Screeshot of 'The Next Bechdel Test'](pudding.png) ![Screenshot of 'This is the largest analysis of film by gender'](fivethirtyeight.png)
+* [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/) by FiveThirtyEight
+* [This is the largest analysis of film by gender](https://pudding.cool/2017/03/film-dialogue/?) by The Pudding
+* [Dialogue analysis by race (methodology and scripts)](https://github.com/ChampeBarton/dialogue_analysis) and [interactive with processed data](https://github.com/ChampeBarton/champebarton.github.io) for his replica of The Pudding interactive but for race, by Champe Barton.
+* [Representations of Racial Minorities in Popular Movies: A Content-Analytic Synergy of Computer Vision and Network Science](https://computationalcommunication.org/ccr/article/view/106) by Malik, M. I., Hopp, F. R., & Weber, R. (2022) in Computational Communication Research. Data on the [Open Science Framework](https://osf.io/3rmtu/?view_only=eaa45bf6f4b94b12a4d6315f12e7a7b2)
+* [Inequality in 1,600 Popular Films: Examining Portrayals of Gender, Race/Ethnicity, LGBTQ+ & Disability from 2007 to 2022](https://annenberg.usc.edu/sites/default/files/2023/08/17/1600pop_1.pdf) by Dr. Stacy L. Smith, Dr. Katherine Pieper & Sam Wheeler
+* [Genderize](https://genderize.io/), [Agify](https://agify.io/) and [Nationalize.io](https://nationalize.io/), helpful APIs to estimate gender, age and nationality by name.
 
 # Teams and Objectives
 
@@ -154,13 +159,15 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an guest judge and the presentation must be in English.
 
-[**Vote here for the best team**]()
+**Vote here for the best team**()
 * You must vote 3, 2, 1; you can't vote all 3s, or vote all 2s or vote one 3 for yourselves and the rest 1s ...
-* Pandas, to be fair, one of you mustn't vote.
+* Note to any team with more than 5 members, for the popular vote to be fair one of you mustn't vote.
 
 🏆 Jury fav: A **€500 gift card** for the team (sponsored by the Càtedra Informació i Computació via Eurecat)
 
 🏆 Popular vote: A copy of **Extra Bold**: A Feminist, Inclusive, Anti-racist, Nonbinary Field Guide for Graphic Designers by by Ellen Lupton, Jennifer Tobias, Josh Halstead, Leslie Xia, Kaleena Sales, Farah Kafei, and Valentina Vergara, for each team member (sponsored by ViT)
+
+![Book cover of Extra Bold](./awards.png)
 
 ## Our evaluation criteria
 
