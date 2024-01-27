@@ -5,9 +5,23 @@
 
 This hackathon, an event between the Data Science and Data Visualization subjects, is supported by the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo), and the [Càtedra d'Informació i Computació (Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
 
+---
+
+**Table of contents**
+* [About the data](#about-the-data)
+* [Some helpful tools and resources](#some-helpful-tools-and-resources)
+* [Teams and objectives](#teams-and-objectives)
+* [Day-of schedule](#day-of-schedule)
+* [The awards](#the-awards)
+* [Our valuation criteria](#our-evaluation-criteria)
+
+---
+
 **💡 Objective:**
 
 To develop an **inclusivity index for movies** that evaluates diversity representation concerning race, gender, sexual orientation ... We'll start off with **IMDB data** and **Cornell's Movie Dialog Corpus**, aiming to provide insights into the inclusivity of cinema and how it reflects society.
+
+![Inclusivity in cinema, painstakingly created after multiple iterations, cause DAL·LE is a bit racist](dalle-inclusivity-cinema.png)
 
 **🔍 Tasks include:**
 
@@ -39,7 +53,7 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 > **⚠ IMPORTANT NOTE:**  
 > Collaboration is key. Ensure to coordinate with other teams as each group’s output is interconnected.
 
-# About the data
+## About the data
 
 Our primary datasets are:
 
@@ -55,13 +69,13 @@ Our primary datasets are:
 * [Dialogue analysis by race (methodology and scripts)](https://github.com/ChampeBarton/dialogue_analysis) and [interactive with processed data](https://github.com/ChampeBarton/champebarton.github.io) for his replica of The Pudding interactive but for race, by Champe Barton.
 * [Representations of Racial Minorities in Popular Movies: A Content-Analytic Synergy of Computer Vision and Network Science](https://computationalcommunication.org/ccr/article/view/106) by Malik, M. I., Hopp, F. R., & Weber, R. (2022) in Computational Communication Research. Data on the [Open Science Framework](https://osf.io/3rmtu/?view_only=eaa45bf6f4b94b12a4d6315f12e7a7b2)
 * [Inequality in 1,600 Popular Films: Examining Portrayals of Gender, Race/Ethnicity, LGBTQ+ & Disability from 2007 to 2022](https://annenberg.usc.edu/sites/default/files/2023/08/17/1600pop_1.pdf) by Dr. Stacy L. Smith, Dr. Katherine Pieper & Sam Wheeler
-* [Genderize](https://genderize.io/), [Agify](https://agify.io/) and [Nationalize.io](https://nationalize.io/), helpful APIs to estimate gender, age and nationality by name.
+* [Genderize](https://genderize.io/), [Agify](https://agify.io/) and [Nationalize.io](https://nationalize.io/), helpful APIs to estimate gender, age and nationality by name. (We know they're not free, we're working on that)
 
-# Teams and Objectives
+## Teams and Objectives
 
 TK TK We should assign based on skills here. So Koalas 🐨, Badgers 🦡, Pandas 🐼, Rhinos 🦏 depend on the task we assign them
 
-## Inclusivity Index Development
+### Inclusivity Index Development
 
 |**Team name:** |
 |:------|
@@ -77,7 +91,7 @@ TK TK We should assign based on skills here. So Koalas 🐨, Badgers 🦡, Panda
 - Interactive notebook/dashboard showcasing the index results.
 - Guidelines on interpreting the index for filmmakers and studios.
 
-## Metadata Enhancement
+### Metadata Enhancement
 
 |**Team name:** |
 |:------|
@@ -93,7 +107,7 @@ TK TK We should assign based on skills here. So Koalas 🐨, Badgers 🦡, Panda
 - An interactive before-and-after comparison visualization of the metadata.
 - A report on the implications of the enhanced metadata for character representation.
 
-## Analyzing Inclusivity and Marketability
+### Analyzing Inclusivity and Marketability
 
 |**Team name:** |
 |:------|
@@ -109,7 +123,7 @@ TK TK We should assign based on skills here. So Koalas 🐨, Badgers 🦡, Panda
 - Visualizations linking inclusivity scores with market data.
 - Best practices and recommendations guide for studios to enhance inclusivity for better market performance.
 
-## Award-Nominated Films Inclusivity Analysis
+### Award-Nominated Films Inclusivity Analysis
 
 |**Team name:** |
 |:------|
