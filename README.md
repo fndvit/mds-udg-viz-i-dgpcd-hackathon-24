@@ -186,7 +186,10 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 ### For the **Project Management** subject:
 
-TK TK 
+35%: Active participation and engagement with the given roles.
+15%: Colleague evaluation within the teams. You'll judge your team mates engagement with their roles.
+25%: Persuasiveness and confidence in the presentation of the results.
+25%: Creativity, feasibility and accuracy of the deliverables.
 
 Self and peer evaluation forms:
 TK TK 
