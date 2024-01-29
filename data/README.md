@@ -2,7 +2,7 @@
 We've brought here some initial data to get you started for convinience. Check out the originals in Kaggle if you like:
 
 * [Movie Dialog Corpus](https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus)
-* [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows?select=imdb_top_1000.csv)
+* [IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows?select=imdb_top_1000.csv) More IMDb datasets [here](https://developer.imdb.com/non-commercial-datasets/)
 
 Our recommendation would be to keep an 'additional' and 'processed' folders here as well, but it'll be up to how you want to manage the dependency between groups.
 
