@@ -42,10 +42,12 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 - Understanding of inclusivity in the context of the film industry.
 
 **📅 Pre-hackathon preparations:**
+Pre-hackathon prep is key to be efficient and effective during the event. It involves understanding the theme, organizing the team, brainstorming ideas, and setting up the necessary tools and environment in advance. This way you can focus on developing your project rather than dealing with logistical or technical issues.
 
 - Familiarize with IMDB data and Cornell's Movie Dialog Corpus —including understanding each variables and doing any data cleanup required.
-- Research inclusivity in cinema and review the [helpful tools and resources](#some-helpful-tools-and-resources). 
-- Plan your particular tasks and objectives.
+- Research inclusivity in cinema and review the [helpful tools and resources](#some-helpful-tools-and-resources).
+- Plan your particular tasks and objectives, and brainstorm solutions.
+- Research and estimate the time needed to run some of the tasks: if scraping an additional dataset is gonna take 5 hours, do it in advance; If running an image classifier takes 2 weeks, maybe reduce the layers; and so on.
 - Discuss in teams your roles and strategy.
 - Set up communication and project management tools.
 - Set up your computing environment for data analysis and visualization.
