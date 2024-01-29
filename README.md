@@ -48,7 +48,6 @@ Pre-hackathon prep is key to be efficient and effective during the event. It inv
 - Research inclusivity in cinema and review the [helpful tools and resources](#some-helpful-tools-and-resources).
 - Plan your particular tasks and objectives, and brainstorm solutions.
 - Research and estimate the time needed to run some of the tasks: if scraping an additional dataset is gonna take 5 hours, do it in advance; If running an image classifier takes 2 weeks, maybe reduce the layers; and so on.
-- Discuss in teams your roles and strategy.
 - Set up communication and project management tools.
 - Set up your computing environment for data analysis and visualization.
 
