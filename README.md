@@ -194,7 +194,7 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 Self and peer evaluation forms: *(to come)*
 
-Remember that the hackathon will account for [**25% of the final mark for the subject**]
+Remember that the hackathon will account for **25% of the final mark for the subject**
 
 ### For the **Information Visualization** subject:
 
