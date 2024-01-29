@@ -78,7 +78,7 @@ Our primary datasets are:
 
 |**Team name:** 🦏 Rhinos|
 |:------|
-|**Members:** Adrià, Albert Teixidó, Jordi Gomarà, Rafa, Mayssae, Marco|
+|**Members:** Adrià, Albert Teixidó, Jordi Gomara, Rafa, Mayssae, Marco|
 
 **Question:** How can we create a comprehensive inclusivity index for movies?
 
