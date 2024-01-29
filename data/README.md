@@ -65,6 +65,8 @@ In all files the original field separator was " +++$+++ " and have been converte
 ## IMDB Movies Dataset
 IMDB Dataset of top 1000 movies and tv shows.
 
+Additionally you could also explore [IMDb Non-commercial](https://developer.imdb.com/non-commercial-datasets/) datasets. Free to use for academic purposes.
+
 ### Content
 * **Poster_Link:** Link of the poster that imdb using
 * **Series_Title:** Name of the movie

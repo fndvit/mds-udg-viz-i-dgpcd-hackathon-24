@@ -57,7 +57,7 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 
 Our primary datasets are:
 
-- **IMDB Data Capture:** Contains comprehensive movie data, including titles, genres, release years, ratings, and more.
+- **IMDB Data Capture:** Contains comprehensive movie data, including titles, genres, release years, ratings, and more. Additionally you could also explore [IMDb Non-commercial](https://developer.imdb.com/non-commercial-datasets/) datasets, which are free to use for academic purposes.
 - **Cornell's Movie Dialog Corpus:** A rich dataset featuring 220,579 conversational exchanges from 617 movies, inclusive of character metadata like gender and credit positions.
 
 **Datasets, codebook and details** can be found here: [data](./data/) [README](./data/README.md)
