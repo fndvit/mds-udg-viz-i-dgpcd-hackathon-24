@@ -3,7 +3,7 @@
 # EPS - Màster in Data Science UdG | Hackathon: Inclusivity in Cinema
 ![License](https://img.shields.io/github/license/fndvit/mds-udg-viz-i-dgpcd-hackathon-24?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/fndvit/mds-udg-viz-i-dgpcd-hackathon-24?style=for-the-badge)
 
-This hackathon, an event between the Data Science and Data Visualization subjects, is supported by the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo), and the [Càtedra d'Informació i Computació (Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
+This hackathon is a shared activity between the Project Management in Data Science and Data Visualization modules. The event is supported by the [ViT Foundation](https://www.fundaciovit.org/), the [Càtedra Lluís Santaló d'Aplicacions de la Matemàtica](http://www.udg.edu/es/catedres/Lluis-Santalo), and the [Càtedra d'Informació i Computació (Eurecat)](https://www.udg.edu/ca/catedres/informacio-i-computacio).
 
 ---
 
@@ -55,7 +55,7 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 
 ## About the data
 
-Our primary datasets are:
+Our initial datasets are:
 
 - **IMDB Data Capture:** Contains comprehensive movie data, including titles, genres, release years, ratings, and more. Additionally you could also explore [IMDb Non-commercial](https://developer.imdb.com/non-commercial-datasets/) datasets, which are free to use for academic purposes.
 - **Cornell's Movie Dialog Corpus:** A rich dataset featuring 220,579 conversational exchanges from 617 movies, inclusive of character metadata like gender and credit positions.
