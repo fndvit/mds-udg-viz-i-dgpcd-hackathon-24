@@ -152,7 +152,7 @@ The Hackathon takes place in the P-IV building, EPS UdG on February 3, 2024.
 
 We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
-* 👋 **09:30** Welcome, reminder of logistics like working rooms, lunch, drinks, communication channels ...
+* 👋 **09:15** Welcome, breakfast ☕🥐, and set up by groups 
 * 🙋‍♀️ **09:45** Standup meeting. Objectives, processes, what you want to achieve in the hackathon and any questions.
 * 👩‍💻 **10:00** Start of work day!
 * 🙋‍♀️ **13:45** Short standup
