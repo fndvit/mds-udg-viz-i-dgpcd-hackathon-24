@@ -41,7 +41,7 @@ To develop an **inclusivity index for movies** that evaluates diversity represen
 - How to translate data insights into actionable visual stories.
 - Understanding of inclusivity in the context of the film industry.
 
-**📅 Pre-hackathon preparations:**
+#### 📅 Pre-hackathon preparations:
 Pre-hackathon prep is key to be efficient and effective during the event. It involves understanding the theme, organizing the team, brainstorming ideas, and setting up the necessary tools and environment in advance. This way you can focus on developing your project rather than dealing with logistical or technical issues.
 
 - Familiarize with IMDB data and Cornell's Movie Dialog Corpus —including understanding each variables and doing any data cleanup required.
@@ -74,6 +74,9 @@ Our initial datasets are:
 * [Genderize](https://genderize.io/), [Agify](https://agify.io/) and [Nationalize.io](https://nationalize.io/), helpful APIs to estimate gender, age and nationality by name. (We know they're not free, we're working on that)
 
 ## Teams and Objectives
+Below is the list of research questions and goals for each team, as well as your deliverables.
+
+About the **deliverables**: you only have a handful of days to prepare for the hackathon and the day-of, so we're not expecting polished results, but drafts. You have limited time, but you also have a relatively sizeable team, so [planning](#📅-pre-hackathon-preparations) is key.
 
 ### Inclusivity Index Development
 
@@ -104,8 +107,8 @@ Our initial datasets are:
 **Deliverables:**
 
 - Enhanced dataset with additional diversity metrics.
-- An interactive before-and-after comparison visualization of the metadata.
-- A report on the implications of the enhanced metadata for character representation.
+- Visualization of the before-and-after comparison of the metadata.
+- Main takeaways on the implications of the enhanced metadata for character representation.
 
 ### Analyzing Inclusivity and Marketability
 
@@ -119,9 +122,9 @@ Our initial datasets are:
 
 **Deliverables:**
 
-- Study report on inclusivity vs. marketability.
-- Visualizations linking inclusivity scores with market data.
-- Best practices and recommendations guide for studios to enhance inclusivity for better market performance.
+- Main takeaways on inclusivity vs. marketability.
+- Visualizations correlating inclusivity scores with box office data.
+- Best practices and recommendations for studios on inclusivity and market performance.
 
 ### Award-Nominated Films Inclusivity Analysis
 
@@ -129,15 +132,15 @@ Our initial datasets are:
 |:------|
 |**Members:** David Solà, Pol Darder, Clara, Martí Gibert, Oscar|
 
-**Question:** How inclusive are the Academy Award nominees for Best Picture over the past decade?
+**Question:** How inclusive are the Academy Award nominees for Best Picture over the past two decades?
 
 **Goal:** Analyze inclusivity trends in top-rated films and their evolution over time.
 
 **Deliverables:**
 
-- Detailed analysis report on inclusivity trends in award-nominated films.
-- Interactive visualizations of the study's key findings.
-- Summary of insights and recommendations for future award-nominated film productions.
+- Inclusivity scores for Best Picture nominees 2004 - 2024.
+- Main takeaways on inclusivity trends in award-nominated films.
+- Interactive visualizations of the key findings.
 
 ---
 
@@ -166,15 +169,15 @@ We will provide breakfast 🥐, lunch 🥪, snacks 🍌, coffee ☕ ...
 
 * Use folders and file names that are human-readable and let you identify the content, preferably use lower case separated by dashes. For example: `movie-characters-gender-race-orientation.json`
 * Follow the Branch Per Feature model: one feature, one branch.
-* Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `owls--data-cleaning` branch.
+* Prepend each branch with your team name. For example if you're commiting part of your work cleaning up the data, you would push it to a `koalas--data-cleaning` branch.
 * Use a consistent pattern for commit messages, a nice one is `type of commit: description of the commit in imperative mood` as in `refactor: use map instead of for loop`.
 
 ## The awards
 
 As we all know the [professional jury and the popular vote don't always match](https://www.youtube.com/watch?v=4uGN9efcACw), so we're offering two awards: you all decide one via an open vote, we decide the other —which may or may not be the same, and we won't know until we reveal them simultaneously. There will be an guest judge and the presentation must be in English.
 
-**Vote here for the best team**()
-* You must vote 3, 2, 1; you can't vote all 3s, or vote all 2s or vote one 3 for yourselves and the rest 1s ...
+**Vote here for the best team** 
+* You must vote 4, 3, 2, 1; you can't vote all 4s, or vote all 3s or vote one 4 for yourselves and the rest 1s ...
 * Note to any team with more than 5 members, for the popular vote to be fair one of you mustn't vote.
 
 🏆 Jury fav: A **€500 gift card** for the team (sponsored by the Càtedra Informació i Computació via Eurecat)
@@ -194,6 +197,8 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 Self and peer evaluation forms: *(to come)*
 
+Remember that the hackathon accounts for account for **25% of the final mark for the module**.
+
 ### For the **Information Visualization** subject:
 
 * All attending students get 0.25 for actively participating.
@@ -203,4 +208,4 @@ Self and peer evaluation forms: *(to come)*
   * the strategies used to highlight patterns,
   * the integration of the visuals with the documentation or the text in the notebook.
 
-Remember that the hackathon will account for [**10% of the final mark for the subject**](https://observablehq.com/d/7d86ca84216262ac?collection=@udg-master-data-science/information-visualization#cell-212)—i.e. one full point.
+Remember that the hackathon accounts for [**10% of the final mark for the module**](https://observablehq.com/d/7d86ca84216262ac?collection=@udg-master-data-science/information-visualization#cell-212)—i.e. one full point.
