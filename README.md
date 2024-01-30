@@ -197,7 +197,7 @@ As we all know the [professional jury and the popular vote don't always match](h
 
 Self and peer evaluation forms: *(to come)*
 
-Remember that the hackathon accounts for account for **25% of the final mark for the module**.
+Remember that the hackathon accounts for account for **25% of the final mark for the subject**.
 
 ### For the **Information Visualization** subject:
 
@@ -208,4 +208,4 @@ Remember that the hackathon accounts for account for **25% of the final mark for
   * the strategies used to highlight patterns,
   * the integration of the visuals with the documentation or the text in the notebook.
 
-Remember that the hackathon accounts for [**10% of the final mark for the module**](https://observablehq.com/d/7d86ca84216262ac?collection=@udg-master-data-science/information-visualization#cell-212)—i.e. one full point.
+Remember that the hackathon accounts for [**10% of the final mark for the subject**](https://observablehq.com/d/7d86ca84216262ac?collection=@udg-master-data-science/information-visualization#cell-212)—i.e. one full point.
