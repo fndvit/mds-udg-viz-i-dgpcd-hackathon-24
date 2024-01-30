@@ -9,7 +9,7 @@ This hackathon is a shared activity between the Project Management in Data Scien
 
 **Table of contents**
 * [About the data](#about-the-data)
-* [Some helpful tools and resources](#some-helpful-tools-and-resources)
+* [Key readings](#key-readings)
 * [Teams and objectives](#teams-and-objectives)
 * [Day-of schedule](#day-of-schedule)
 * [The awards](#the-awards)
@@ -63,14 +63,16 @@ Our initial datasets are:
 
 **Datasets, codebook and details** can be found here: [data](./data/) [README](./data/README.md)
 
-## Some helpful tools and resources
+## Key readings
 ![Screeshot of 'The Next Bechdel Test'](pudding.png) ![Screenshot of 'This is the largest analysis of film by gender'](fivethirtyeight.png)
 * [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/) by FiveThirtyEight
 * [This is the largest analysis of film by gender](https://pudding.cool/2017/03/film-dialogue/?) by The Pudding
+* [Inequality in 1,600 Popular Films: Examining Portrayals of Gender, Race/Ethnicity, LGBTQ+ & Disability from 2007 to 2022](https://annenberg.usc.edu/sites/default/files/2023/08/17/1600pop_1.pdf) by Dr. Stacy L. Smith, Dr. Katherine Pieper & Sam Wheeler
+
+## Some helpful tools and resources
 * [The Reel Truth: Women Aren’t Seen or Heard](https://seejane.org/research-informs-empowers/data/) by the Geena Davis Institute on Gender in Media
 * [Dialogue analysis by race (methodology and scripts)](https://github.com/ChampeBarton/dialogue_analysis) and [interactive with processed data](https://github.com/ChampeBarton/champebarton.github.io) for his replica of The Pudding interactive but for race, by Champe Barton.
 * [Representations of Racial Minorities in Popular Movies: A Content-Analytic Synergy of Computer Vision and Network Science](https://computationalcommunication.org/ccr/article/view/106) by Malik, M. I., Hopp, F. R., & Weber, R. (2022) in Computational Communication Research. Data on the [Open Science Framework](https://osf.io/3rmtu/?view_only=eaa45bf6f4b94b12a4d6315f12e7a7b2)
-* [Inequality in 1,600 Popular Films: Examining Portrayals of Gender, Race/Ethnicity, LGBTQ+ & Disability from 2007 to 2022](https://annenberg.usc.edu/sites/default/files/2023/08/17/1600pop_1.pdf) by Dr. Stacy L. Smith, Dr. Katherine Pieper & Sam Wheeler
 * [Genderize](https://genderize.io/), [Agify](https://agify.io/) and [Nationalize.io](https://nationalize.io/), helpful APIs to estimate gender, age and nationality by name. (We know they're not free, we're working on that)
 
 ## Teams and Objectives
