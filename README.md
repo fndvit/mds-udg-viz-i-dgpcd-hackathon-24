@@ -76,7 +76,7 @@ Our initial datasets are:
 ## Teams and Objectives
 Below is the list of research questions and goals for each team, as well as your deliverables.
 
-About the **deliverables**: you only have a handful of days to prepare for the hackathon and the day-of, so we're not expecting polished results, but drafts. You have limited time, but you also have a relatively sizeable team, so [planning](#📅-pre-hackathon-preparations) is key.
+About the **deliverables**: you only have a handful of days to prepare for the hackathon and the day-of, so we're not expecting polished results, but drafts. You have limited time, but you also have a relatively sizeable team, so [planning](#-pre-hackathon-preparations) is key.
 
 ### Inclusivity Index Development
 
