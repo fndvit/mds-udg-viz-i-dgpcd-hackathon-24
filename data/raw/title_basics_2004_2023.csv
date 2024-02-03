@@ -1,0 +1,241 @@
+tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,yearNominee
+tt0297741,movie,Argo,Argo,0.0,2004.0,,106.0,"Action,Comedy",2012.0
+tt0308644,movie,Finding Neverland,Finding Neverland,0.0,2004.0,,106.0,"Biography,Drama,Family",2004.0
+tt0338751,movie,The Aviator,The Aviator,0.0,2004.0,,170.0,"Biography,Drama",2004.0
+tt0350258,movie,Ray,Ray,0.0,2004.0,,152.0,"Biography,Drama,Music",2004.0
+tt0352699,movie,Parasite,Parasite,0.0,2004.0,,93.0,"Action,Adventure,Horror",2019.0
+tt0361748,movie,Inglourious Basterds,Inglourious Basterds,0.0,2009.0,,153.0,"Adventure,Drama,War",2009.0
+tt0375063,movie,Sideways,Sideways,0.0,2004.0,,127.0,"Comedy,Drama,Romance",2004.0
+tt0375679,movie,Crash,Crash,0.0,2004.0,,112.0,"Crime,Drama,Thriller",2005.0
+tt0379725,movie,Capote,Capote,0.0,2005.0,,114.0,"Biography,Crime,Drama",2005.0
+tt0383862,movie,Roma,Roma,0.0,2004.0,,155.0,Drama,2018.0
+tt0388795,movie,Brokeback Mountain,Brokeback Mountain,0.0,2005.0,,134.0,"Drama,Romance",2005.0
+tt0407887,movie,The Departed,The Departed,0.0,2006.0,,151.0,"Crime,Drama,Thriller",2006.0
+tt0408306,movie,Munich,Munich,0.0,2005.0,,164.0,"Action,Drama,History",2005.0
+tt0412791,movie,Gravity,Gravity,0.0,2004.0,,83.0,Drama,2013.0
+tt0417096,movie,Room,Room,0.0,2005.0,,75.0,"Drama,Mystery",2015.0
+tt0421715,movie,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,0.0,2008.0,,166.0,"Drama,Fantasy,Romance",2008.0
+tt0435761,movie,Toy Story 3,Toy Story 3,0.0,2010.0,,103.0,"Adventure,Animation,Comedy",2010.0
+tt0436697,movie,The Queen,The Queen,0.0,2006.0,,103.0,"Biography,Drama",2006.0
+tt0443272,movie,Lincoln,Lincoln,0.0,2012.0,,150.0,"Biography,Drama,History",2012.0
+tt0449059,movie,Little Miss Sunshine,Little Miss Sunshine,0.0,2006.0,,101.0,"Comedy,Drama",2006.0
+tt0449467,movie,Babel,Babel,0.0,2006.0,,143.0,Drama,2006.0
+tt0454876,movie,Life of Pi,Life of Pi,0.0,2012.0,,127.0,"Adventure,Drama,Fantasy",2012.0
+tt0465538,movie,Michael Clayton,Michael Clayton,0.0,2007.0,,119.0,"Crime,Drama,Mystery",2007.0
+tt0467406,movie,Juno,Juno,0.0,2007.0,,96.0,"Comedy,Drama",2007.0
+tt0469494,movie,There Will Be Blood,There Will Be Blood,0.0,2007.0,,158.0,Drama,2007.0
+tt0475247,movie,Darkest Hour,Darkest Hour,0.0,2005.0,,96.0,"Horror,Mystery",2017.0
+tt0477302,movie,Extremely Loud & Incredibly Close,Extremely Loud & Incredibly Close,0.0,2011.0,,129.0,"Adventure,Drama,Mystery",2011.0
+tt0477348,movie,No Country for Old Men,No Country for Old Men,0.0,2007.0,,122.0,"Crime,Drama,Thriller",2007.0
+tt0478304,movie,The Tree of Life,The Tree of Life,0.0,2011.0,,139.0,"Drama,Fantasy",2011.0
+tt0498380,movie,Letters from Iwo Jima,Letters from Iwo Jima,0.0,2006.0,,141.0,"Action,Adventure,Drama",2006.0
+tt0499549,movie,Avatar,Avatar,0.0,2009.0,,162.0,"Action,Adventure,Fantasy",2009.0
+tt0762145,movie,Vice,Vice,0.0,2008.0,,99.0,"Crime,Drama,Mystery",2018.0
+tt0783233,movie,Atonement,Atonement,0.0,2007.0,,123.0,"Drama,Mystery,Romance",2007.0
+tt0790636,movie,Dallas Buyers Club,Dallas Buyers Club,0.0,2013.0,,117.0,"Biography,Drama",2013.0
+tt0842926,movie,The Kids Are All Right,The Kids Are All Right,0.0,2010.0,,106.0,"Comedy,Drama,Romance",2010.0
+tt0870111,movie,Frost/Nixon,Frost/Nixon,0.0,2008.0,,122.0,"Biography,Drama,History",2008.0
+tt0878804,movie,The Blind Side,The Blind Side,0.0,2009.0,,129.0,"Biography,Drama,Sport",2009.0
+tt0887779,movie,The Shape of Water,The Shape of Water,0.0,2006.0,,70.0,Documentary,2017.0
+tt0887912,movie,The Hurt Locker,The Hurt Locker,0.0,2008.0,,131.0,"Drama,Thriller,War",2009.0
+tt0928191,movie,Lion,Lion,0.0,2006.0,,160.0,"Action,Comedy,Drama",2016.0
+tt0947798,movie,Black Swan,Black Swan,0.0,2010.0,,108.0,"Drama,Thriller",2010.0
+tt0964517,movie,The Fighter,The Fighter,0.0,2010.0,,116.0,"Action,Biography,Drama",2010.0
+tt0970179,movie,Hugo,Hugo,0.0,2011.0,,126.0,"Adventure,Drama,Family",2011.0
+tt0976051,movie,The Reader,The Reader,0.0,2008.0,,124.0,"Drama,Mystery,Romance",2008.0
+tt0993846,movie,The Wolf of Wall Street,The Wolf of Wall Street,0.0,2013.0,,180.0,"Biography,Comedy,Crime",2013.0
+tt1010048,movie,Slumdog Millionaire,Slumdog Millionaire,0.0,2008.0,,120.0,"Crime,Drama,Romance",2008.0
+tt1013753,movie,Milk,Milk,0.0,2008.0,,128.0,"Biography,Drama,History",2008.0
+tt1016150,movie,All Quiet on the Western Front,Im Westen nichts Neues,0.0,2022.0,,148,"Action,Drama,War",2022.0
+tt1019452,movie,A Serious Man,A Serious Man,0.0,2009.0,,106,"Comedy,Drama",2009.0
+tt10199590,movie,Les Misérables,Les misérables,0.0,2019.0,,104,"Crime,Drama,Thriller",2012.0
+tt1020072,movie,Selma,Selma,0.0,2014.0,,128,"Biography,Drama,History",2014.0
+tt1024648,movie,Argo,Argo,0.0,2012.0,,120,"Biography,Drama,Thriller",2012.0
+tt10272386,movie,The Father,The Father,0.0,2020.0,,97.0,"Drama,Mystery",2020.0
+tt10293406,movie,The Power of the Dog,The Power of the Dog,0.0,2021.0,,126.0,"Drama,Western",2021.0
+tt1033575,movie,The Descendants,The Descendants,0.0,2011.0,,115.0,"Comedy,Drama",2011.0
+tt10340148,movie,Midnight in Paris,Midnight in Paris,0.0,2019.0,,75.0,"Comedy,Documentary,Drama",2011.0
+tt1034305,movie,Don't Look Up,Don't Look Up,0.0,2009.0,,85.0,Horror,2021.0
+tt10366460,movie,CODA,CODA,0.0,2021.0,,111.0,"Comedy,Drama,Music",2021.0
+tt10409554,movie,The Father,Bashtata,0.0,2019.0,,87.0,"Comedy,Drama",2020.0
+tt1043568,movie,Vice,Tiski,0.0,2007.0,,124.0,"Action,Crime,Drama",2018.0
+tt1045658,movie,Silver Linings Playbook,Silver Linings Playbook,0.0,2012.0,,122.0,"Comedy,Drama,Romance",2012.0
+tt1049413,movie,Up,Up,0.0,2009.0,,96.0,"Adventure,Animation,Comedy",2009.0
+tt10618286,movie,Mank,Mank,0.0,2020.0,,131.0,"Biography,Comedy,Drama",2020.0
+tt10633456,movie,Minari,Minari,0.0,2020.0,,115.0,Drama,2020.0
+tt1065073,movie,Boyhood,Boyhood,0.0,2014.0,,165.0,Drama,2014.0
+tt1070874,movie,The Trial of the Chicago 7,The Trial of the Chicago 7,0.0,2020.0,,129.0,"Drama,History,Thriller",2020.0
+tt11271038,movie,Licorice Pizza,Licorice Pizza,0.0,2021.0,,133.0,"Comedy,Drama,Romance",2021.0
+tt11286314,movie,Don't Look Up,Don't Look Up,0.0,2021.0,,138.0,"Comedy,Drama,Sci-Fi",2021.0
+tt1136608,movie,District 9,District 9,0.0,2009.0,,112.0,"Action,Sci-Fi,Thriller",2009.0
+tt1160419,movie,Dune,Dune: Part One,0.0,2021.0,,155,"Action,Adventure,Drama",2021.0
+tt1174732,movie,An Education,An Education,0.0,2009.0,,100.0,Drama,2009.0
+tt11813216,movie,The Banshees of Inisherin,The Banshees of Inisherin,0.0,2022.0,,114,"Comedy,Drama",2022.0
+tt1185440,movie,The Tree of Life,The Tree of Life,0.0,2008.0,,76,"Documentary,History",2011.0
+tt1193138,movie,Up in the Air,Up in the Air,0.0,2009.0,,109.0,"Comedy,Drama,Romance",2009.0
+tt1210166,movie,Moneyball,Moneyball,0.0,2011.0,,133,"Biography,Drama,Sport",2011.0
+tt12272734,movie,The Post,The Post,0.0,2023.0,,,Drama,2017.0
+tt1236373,movie,Sideways,Saidoweizu,0.0,2009.0,,124.0,"Comedy,Drama",2004.0
+tt12452516,movie,Darkest Hour,Darkest Hour Annihilation,0.0,2022.0,,,"Drama,Mystery,Thriller",2017.0
+tt1248290,movie,The Artist,El artista,0.0,2008.0,,100,"Comedy,Drama",2011.0
+tt12739944,movie,Milk,Milk,0.0,2019.0,,45.0,Documentary,2008.0
+tt12789558,movie,Belfast,Belfast,0.0,2021.0,,98.0,"Biography,Drama,Romance",2021.0
+tt1285016,movie,The Social Network,The Social Network,0.0,2010.0,,120.0,"Biography,Drama",2010.0
+tt1302006,movie,The Irishman,The Irishman,0.0,2019.0,,209.0,"Biography,Crime,Drama",2019.0
+tt13130400,movie,Maestro,Maestro,0.0,2021.0,,135.0,"Crime,Drama,Music",2023.0
+tt13238346,movie,Past Lives,Past Lives,0.0,2023.0,,105.0,"Drama,Romance",2023.0
+tt1336006,movie,The Revenant,The Revenant,0.0,2009.0,,117.0,"Comedy,Fantasy,Horror",2015.0
+tt1347522,movie,Her,Her,0.0,2009.0,,45.0,Drama,2013.0
+tt13620344,movie,The Queen,The Queen,0.0,2016.0,,164.0,Documentary,2006.0
+tt13669038,movie,Women Talking,Women Talking,0.0,2022.0,,104,Drama,2022.0
+tt1375666,movie,Inception,Inception,0.0,2010.0,,148.0,"Action,Adventure,Sci-Fi",2010.0
+tt13765040,movie,The Father,Al Ab,0.0,2015.0,,,Drama,2020.0
+tt1392190,movie,Mad Max: Fury Road,Mad Max: Fury Road,0.0,2015.0,,120.0,"Action,Adventure,Sci-Fi",2015.0
+tt1399683,movie,Winter's Bone,Winter's Bone,0.0,2010.0,,100.0,"Drama,Mystery",2010.0
+tt1403865,movie,True Grit,True Grit,0.0,2010.0,,110.0,"Drama,Western",2010.0
+tt14039582,movie,Drive My Car,Doraibu mai kâ,0.0,2021.0,,179.0,Drama,2021.0
+tt14149364,movie,The Queen,The Queen,0.0,2020.0,,87.0,Comedy,2006.0
+tt14208870,movie,The Fabelmans,The Fabelmans,0.0,2022.0,,151.0,Drama,2022.0
+tt14230458,movie,Poor Things,Poor Things,0.0,2023.0,,141.0,"Comedy,Drama,Romance",2023.0
+tt1442580,movie,Gravity,Schwerkraft,0.0,2009.0,,97.0,"Crime,Drama",2013.0
+tt14444726,movie,Tár,Tár,0.0,2022.0,,158.0,"Drama,Music",2022.0
+tt1454029,movie,The Help,The Help,0.0,2011.0,,146.0,Drama,2011.0
+tt1454468,movie,Gravity,Gravity,0.0,2013.0,,91.0,"Drama,Sci-Fi,Thriller",2013.0
+tt1458730,movie,Brooklyn,Brooklyn,0.0,2010.0,,80.0,"Comedy,Crime",2015.0
+tt14693788,movie,Little Women,Little Women,0.0,2021.0,,,Drama,2019.0
+tt14849194,movie,The Holdovers,The Holdovers,0.0,2023.0,,133.0,"Comedy,Drama",2023.0
+tt1497625,movie,Moonlight,Moonlight,0.0,2009.0,,,Drama,2016.0
+tt1504320,movie,The King's Speech,The King's Speech,0.0,2010.0,,118.0,"Biography,Drama,History",2010.0
+tt1507359,movie,The Fighter,The Fighter,0.0,2008.0,,90.0,Action,2010.0
+tt1517268,movie,Barbie,Barbie,0.0,2023.0,,114.0,"Adventure,Comedy,Fantasy",2023.0
+tt1517451,movie,A Star Is Born,A Star Is Born,0.0,2018.0,,136.0,"Drama,Music,Romance",2018.0
+tt1535109,movie,Captain Phillips,Captain Phillips,0.0,2013.0,,134.0,"Action,Biography,Crime",2013.0
+tt15398776,movie,Oppenheimer,Oppenheimer,0.0,2023.0,,180.0,"Biography,Drama,History",2023.0
+tt1542344,movie,127 Hours,127 Hours,0.0,2010.0,,94.0,"Biography,Drama",2010.0
+tt1568911,movie,War Horse,War Horse,0.0,2011.0,,146.0,"Action,Adventure,Drama",2011.0
+tt1587319,movie,The Artist,The Artist,0.0,2009.0,,90.0,"Action,Adventure,Fantasy",2011.0
+tt1596363,movie,The Big Short,The Big Short,0.0,2015.0,,130.0,"Biography,Comedy,Drama",2015.0
+tt1602620,movie,Amour,Amour,0.0,2012.0,,127.0,Drama,2012.0
+tt1605783,movie,Midnight in Paris,Midnight in Paris,0.0,2011.0,,94.0,"Comedy,Fantasy,Romance",2011.0
+tt1620557,movie,Nightmare Alley,Nightmare Alley,0.0,2010.0,,88.0,Horror,2021.0
+tt1630029,movie,Avatar: The Way of Water,Avatar: The Way of Water,0.0,2022.0,,192.0,"Action,Adventure,Fantasy",2022.0
+tt16476738,movie,The Artist,The Artist,0.0,2021.0,,59.0,"Drama,Horror",2011.0
+tt16531196,movie,The Father,The Father,0.0,2020.0,,116.0,Drama,2020.0
+tt1655442,movie,The Artist,The Artist,0.0,2011.0,,100.0,"Comedy,Drama,Romance",2011.0
+tt1663202,movie,The Revenant,The Revenant,0.0,2015.0,,156.0,"Action,Adventure,Drama",2015.0
+tt16773484,movie,Sideways,Sideways,0.0,2021.0,,,"Comedy,Romance",2004.0
+tt17009710,movie,Anatomy of a Fall,Anatomie d'une chute,0.0,2023.0,,151.0,"Crime,Drama,Thriller",2023.0
+tt1707386,movie,Les Misérables,Les Misérables,0.0,2012.0,,158.0,"Drama,Musical,Romance",2012.0
+tt1727824,movie,Bohemian Rhapsody,Bohemian Rhapsody,0.0,2018.0,,134.0,"Biography,Drama,Music",2018.0
+tt17375168,movie,Room,Room,0.0,2022.0,,122.0,"Romance,Thriller",2015.0
+tt1745960,movie,Top Gun: Maverick,Top Gun: Maverick,0.0,2022.0,,130.0,"Action,Drama",2022.0
+tt1775309,movie,Avatar,Abatâ,0.0,2011.0,,93.0,Horror,2009.0
+tt1785457,movie,Maestro,Maestro,0.0,2009.0,,103.0,Drama,2023.0
+tt1790885,movie,Zero Dark Thirty,Zero Dark Thirty,0.0,2012.0,,157.0,"Drama,History,Thriller",2012.0
+tt1798709,movie,Her,Her,0.0,2013.0,,126.0,"Drama,Romance,Sci-Fi",2013.0
+tt1800241,movie,American Hustle,American Hustle,0.0,2013.0,,138.0,"Crime,Drama",2013.0
+tt1821549,movie,Nebraska,Nebraska,0.0,2013.0,,115.0,Drama,2013.0
+tt1825683,movie,Black Panther,Black Panther,0.0,2018.0,,134.0,"Action,Adventure,Sci-Fi",2018.0
+tt1825978,movie,The Artist,The Artist,0.0,2011.0,,100.0,Thriller,2011.0
+tt1853728,movie,Django Unchained,Django Unchained,0.0,2012.0,,165.0,"Drama,Western",2012.0
+tt1895587,movie,Spotlight,Spotlight,0.0,2015.0,,129.0,"Biography,Crime,Drama",2015.0
+tt1918886,movie,Joker,Joker,0.0,2012.0,,104.0,"Comedy,Family,Sci-Fi",2019.0
+tt1950186,movie,Ford v Ferrari,Ford v Ferrari,0.0,2019.0,,152.0,"Action,Biography,Drama",2019.0
+tt2024544,movie,12 Years a Slave,12 Years a Slave,0.0,2013.0,,134.0,"Biography,Drama,History",2013.0
+tt2074334,movie,Barbie,Ba-bi,0.0,2011.0,,97.0,Drama,2023.0
+tt20758230,movie,Hell or High Water,Hell or High Water,0.0,2022.0,,,"Crime,Drama,Thriller",2016.0
+tt2084970,movie,The Imitation Game,The Imitation Game,0.0,2014.0,,114.0,"Biography,Drama,Thriller",2014.0
+tt2119532,movie,Hacksaw Ridge,Hacksaw Ridge,0.0,2016.0,,139.0,"Biography,Drama,History",2016.0
+tt2125435,movie,Beasts of the Southern Wild,Beasts of the Southern Wild,0.0,2012.0,,93.0,"Adventure,Drama,Fantasy",2012.0
+tt21437784,movie,Whiplash,Whiplash,0.0,2021.0,,,Documentary,2014.0
+tt2147964,movie,Roma,Roma,0.0,2011.0,,48.0,"Documentary,History,Music",2018.0
+tt2179136,movie,American Sniper,American Sniper,0.0,2014.0,,133.0,"Action,Biography,Drama",2014.0
+tt21911332,movie,Atonement,Atonement,0.0,2022.0,,92.0,Drama,2007.0
+tt21966532,movie,Atonement,The Atonement,0.0,2019.0,,89.0,"Drama,Mystery,Romance",2007.0
+tt21973864,movie,Her,Her,0.0,2022.0,,91.0,Drama,2013.0
+tt2261817,movie,Maestro,Maestro,0.0,2015.0,,81.0,"Adventure,Documentary,Music",2023.0
+tt2278388,movie,The Grand Budapest Hotel,The Grand Budapest Hotel,0.0,2014.0,,99.0,"Adventure,Comedy,Crime",2014.0
+tt23472952,movie,The Fighter,The Fighter,0.0,2013.0,,183.0,Drama,2010.0
+tt23561236,movie,American Fiction,American Fiction,0.0,2023.0,,117.0,"Comedy,Drama",2023.0
+tt2381111,movie,Brooklyn,Brooklyn,0.0,2015.0,,117.0,"Drama,Romance",2015.0
+tt2431286,movie,Philomena,Philomena,0.0,2013.0,,98.0,"Biography,Comedy,Drama",2013.0
+tt2543164,movie,Arrival,Arrival,0.0,2016.0,,116.0,"Drama,Mystery,Sci-Fi",2016.0
+tt2548096,movie,The Queen,The Queen,0.0,2012.0,,104.0,"Action,Drama,War",2006.0
+tt2562232,movie,Birdman or (The Unexpected Virtue of Ignorance),Birdman or (The Unexpected Virtue of Ignorance),0.0,2014.0,,119.0,"Comedy,Drama",2014.0
+tt2582782,movie,Hell or High Water,Hell or High Water,0.0,2016.0,,102.0,"Crime,Drama,Thriller",2016.0
+tt2582802,movie,Whiplash,Whiplash,0.0,2014.0,,106.0,"Drama,Music",2014.0
+tt2584384,movie,Jojo Rabbit,Jojo Rabbit,0.0,2019.0,,108.0,"Comedy,Drama,War",2019.0
+tt2671706,movie,Fences,Fences,0.0,2016.0,,139.0,Drama,2016.0
+tt27252213,movie,Her,Her,0.0,2022.0,,,Drama,2013.0
+tt27817522,movie,Ray,Ray,0.0,2019.0,,,,2004.0
+tt2822062,movie,Crash,Crash,0.0,2011.0,,94,Thriller,2005.0
+tt2905856,movie,Black Panther,Schwarzer Panther,0.0,2014.0,,79,"Drama,Romance",2018.0
+tt29220320,movie,Atonement,Atonement,0.0,2023.0,,,Drama,2007.0
+tt2980516,movie,The Theory of Everything,The Theory of Everything,0.0,2014.0,,123.0,"Biography,Drama,Romance",2014.0
+tt2989872,movie,Lion,Lion,0.0,2015.0,,70.0,"Comedy,Drama,Romance",2016.0
+tt3002286,movie,Joker,Joker,0.0,2013.0,,94.0,"Action,Thriller",2019.0
+tt3010370,movie,Joker,Joker,0.0,2013.0,,49.0,"Crime,Mystery,Thriller",2019.0
+tt30478006,movie,Atonement,Atonement,0.0,2023.0,,,Drama,2007.0
+tt3170832,movie,Room,Room,0.0,2015.0,,118.0,"Drama,Thriller",2015.0
+tt3184798,movie,Brooklyn,Brooklyn,0.0,2014.0,,83.0,"Drama,Music,Musical",2015.0
+tt3197696,movie,Fences,Fences,0.0,2013.0,,117.0,"Drama,Family",2016.0
+tt3281548,movie,Little Women,Little Women,0.0,2019.0,,135.0,"Drama,Romance",2019.0
+tt3300078,movie,The Revenant,The Revenant,0.0,2012.0,,80.0,Horror,2015.0
+tt3313072,movie,War Horse,National Theatre Live: War Horse,0.0,2014.0,,135.0,Drama,2011.0
+tt3476480,movie,Maestro,Maestro,0.0,2014.0,,81.0,"Comedy,Drama",2023.0
+tt3480796,movie,Vice,Vice,0.0,2015.0,,96.0,"Action,Sci-Fi,Thriller",2018.0
+tt3581652,movie,West Side Story,West Side Story,0.0,2021.0,,156.0,"Crime,Drama,Musical",2021.0
+tt3630264,movie,The Artist,The Artist,0.0,2013.0,,,,2011.0
+tt3659388,movie,The Martian,The Martian,0.0,2015.0,,144.0,"Adventure,Drama,Sci-Fi",2015.0
+tt3682448,movie,Bridge of Spies,Bridge of Spies,0.0,2015.0,,142.0,"Drama,History,Thriller",2015.0
+tt3704428,movie,Elvis,Elvis,0.0,2022.0,,159.0,"Biography,Drama,Music",2022.0
+tt3741834,movie,Lion,Lion,0.0,2016.0,,118.0,"Biography,Drama",2016.0
+tt3783958,movie,La La Land,La La Land,0.0,2016.0,,128.0,"Comedy,Drama,Music",2016.0
+tt4034228,movie,Manchester by the Sea,Manchester by the Sea,0.0,2016.0,,137.0,Drama,2016.0
+tt4418698,movie,Milk,Milk,0.0,2015.0,,91.0,"Documentary,Family",2008.0
+tt4555426,movie,Darkest Hour,Darkest Hour,0.0,2017.0,,125.0,"Biography,Drama,War",2017.0
+tt4685968,movie,Lion,Lion,0.0,2015.0,,143.0,"Action,Drama",2016.0
+tt4846340,movie,Hidden Figures,Hidden Figures,0.0,2016.0,,127.0,"Biography,Drama,History",2016.0
+tt4925292,movie,Lady Bird,Lady Bird,0.0,2017.0,,94.0,"Comedy,Drama",2017.0
+tt4975722,movie,Moonlight,Moonlight,0.0,2016.0,,111.0,Drama,2016.0
+tt5013056,movie,Dunkirk,Dunkirk,0.0,2017.0,,106.0,"Action,Drama,History",2017.0
+tt5052448,movie,Get Out,Get Out,0.0,2017.0,,104.0,"Horror,Mystery,Thriller",2017.0
+tt5083738,movie,The Favourite,The Favourite,0.0,2018.0,,119.0,"Biography,Comedy,Drama",2018.0
+tt5363618,movie,Sound of Metal,Sound of Metal,0.0,2019.0,,120.0,"Drama,Music",2020.0
+tt5535276,movie,Maestro,Maestro,0.0,2023.0,,129.0,"Biography,Drama,History",2023.0
+tt5537002,movie,Killers of the Flower Moon,Killers of the Flower Moon,0.0,2023.0,,206.0,"Crime,Drama,History",2023.0
+tt5580390,movie,The Shape of Water,The Shape of Water,0.0,2017.0,,123.0,"Drama,Fantasy,Romance",2017.0
+tt5611384,movie,The Fighter,The Fighter,0.0,2007.0,,,Action,2010.0
+tt5611648,movie,Joker,Joker,0.0,2016.0,,130.0,"Comedy,Drama",2019.0
+tt5615922,movie,Les Misérables,Les Misérables,0.0,2016.0,,,Drama,2012.0
+tt5726616,movie,Call Me by Your Name,Call Me by Your Name,0.0,2017.0,,132.0,"Drama,Romance",2017.0
+tt5776858,movie,Phantom Thread,Phantom Thread,0.0,2017.0,,130.0,"Drama,History,Romance",2017.0
+tt5838908,movie,The Descendants,The Descendants,0.0,2016.0,,80.0,Drama,2011.0
+tt5934182,movie,Moonlight,Moonlight,0.0,2011.0,,87.0,Horror,2016.0
+tt6155172,movie,Roma,Roma,0.0,2018.0,,135.0,Drama,2018.0
+tt6266538,movie,Vice,Vice,0.0,2018.0,,132.0,"Biography,Comedy,Drama",2018.0
+tt6294822,movie,The Post,The Post,0.0,2017.0,,116.0,"Biography,Drama,History",2017.0
+tt6495094,movie,Little Women,Little Women,0.0,2018.0,,112.0,"Drama,Family",2019.0
+tt6684818,movie,The Artist,The Artist,0.0,2015.0,,53.0,Mystery,2011.0
+tt6710474,movie,Everything Everywhere All at Once,Everything Everywhere All at Once,0.0,2022.0,,139.0,"Action,Adventure,Comedy",2022.0
+tt6751668,movie,Parasite,Gisaengchung,0.0,2019.0,,132.0,"Drama,Thriller",2019.0
+tt6966692,movie,Green Book,Green Book,0.0,2018.0,,130.0,"Biography,Comedy,Drama",2018.0
+tt7071176,movie,Nightmare Alley,Nightmare Alley,0.0,2018.0,,125.0,Sci-Fi,2021.0
+tt7160372,movie,The Zone of Interest,The Zone of Interest,0.0,2023.0,,105.0,"Drama,History,War",2023.0
+tt7286456,movie,Joker,Joker,0.0,2019.0,,122.0,"Crime,Drama,Thriller",2019.0
+tt7322224,movie,Triangle of Sadness,Triangle of Sadness,0.0,2022.0,,147.0,"Comedy,Drama",2022.0
+tt7325124,movie,Arrival,Arrival,0.0,2012.0,,,Documentary,2016.0
+tt7349662,movie,BlacKkKlansman,BlacKkKlansman,0.0,2018.0,,135.0,"Biography,Comedy,Crime",2018.0
+tt7496196,movie,Hugo,Hugo,0.0,2017.0,,80.0,Documentary,2011.0
+tt7653254,movie,Marriage Story,Marriage Story,0.0,2019.0,,137.0,"Drama,Romance",2019.0
+tt7740496,movie,Nightmare Alley,Nightmare Alley,0.0,2021.0,,150.0,"Crime,Drama,Thriller",2021.0
+tt7785302,movie,Spotlight,Spotlight,0.0,2015.0,,99.0,Drama,2015.0
+tt8579674,movie,1917,1917,0.0,2019.0,,119.0,"Action,Drama,War",2019.0
+tt8983360,movie,The Artist,The Artist,1.0,2018.0,,100.0,Adult,2011.0
+tt8991250,movie,The Tree of Life,The Tree of Life,0.0,2018.0,,60.0,Documentary,2011.0
+tt9097612,movie,The Father,The Father,0.0,2018.0,,15.0,Mystery,2020.0
+tt9620288,movie,King Richard,King Richard,0.0,2021.0,,144.0,"Biography,Drama,Sport",2021.0
+tt9620292,movie,Promising Young Woman,Promising Young Woman,0.0,2020.0,,113.0,"Crime,Drama,Mystery",2020.0
+tt9770150,movie,Nomadland,Nomadland,0.0,2020.0,,107,Drama,2020.0
+tt9784798,movie,Judas and the Black Messiah,Judas and the Black Messiah,0.0,2021.0,,126,"Biography,Drama,History",2020.0
+tt9844102,movie,Ray,Ray,0.0,2018.0,,111,Crime,2004.0
