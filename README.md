@@ -197,7 +197,11 @@ As we all know the [professional jury and the popular vote don't always match](h
 * 25%: Persuasiveness and confidence in the presentation of the results.
 * 25%: Creativity, feasibility and accuracy of the deliverables.
 
-Self and peer evaluation forms: *(to come)*
+### Self and peer evaluation forms: 
+* Team Rhinos (https://forms.gle/aR6ouZN2K8irqAoY7)
+* Team Pandas (https://forms.gle/esp68YB2MrCM7A3t6)
+* Team Koalas (https://forms.gle/FfgG9Xpo1zhHgcdB9)
+* Team Badgers (https://forms.gle/GprGS5xD8pdmqufa6)
 
 Remember that the hackathon accounts for account for **25% of the final mark for the subject**.
 
